@@ -1,0 +1,31 @@
+.flex{
+    display: flex;
+}
+.jusstify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+.bg-black{
+    background-color: black;
+}
+
+.bg-white{
+    background-color: white;
+}
+.border-yellow{
+    border: 2px solid yellow;
+}
+.border-lightblue{
+    border: 2px solid lightblue;
+}
+.white{
+    color: white;
+}
+.black{
+    color: black;
+}
+.mtop20{
+    margin-top: 20px;
+}
